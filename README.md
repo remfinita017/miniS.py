@@ -1,1 +1,2 @@
 # miniS.py
+**About:**
